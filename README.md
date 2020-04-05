@@ -40,7 +40,7 @@
 #### Wrong Answer/Lose Screen:
 ```
   FUNCTIONALITY:
-    - Screen displays "Gme Over" image
+    - Screen displays "Game Over" image
     - Blank spaces displays length of random word for player to guess
     - Scoreboard (wins,guesses-remaining and wrong guesses below word diplayed in upper case letters) 
  
