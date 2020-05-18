@@ -98,7 +98,7 @@ function aud() {
         jb.pause();
         sel.pause();
         billie.play();
-        document.getElementById("image").src = "./assets/images/badguy.jpg.";
+        document.getElementById("image").src = "./assets/images/badguy.jpg";
     }
     //Scooby-doo Audio & Image
     //---------------------------
